@@ -1,0 +1,15 @@
+#1 Display third maximum salary from the salaries table
+#2 Display Department wise maximum salary where maximum salary should be more than 3000
+#3 retrieve all employee details who are all working in same department as employee '4'.( Without using subquery)
+#4 TO BE ADDED xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+#5 Find the employee who has worked in more than one department & has held more titles than others.
+#6 Find the male employee in the Accounts department who is paid lower than the least paid female employee of any other department.
+#7 Question no 7 
+#8 Question no 8 
+#9 Question no 9 
+#10 Question no 10 
+#11 Question no 11 
+#12 Question no 12
+#13 Question no 13
+#14 Question no 14
+#15 Question no 15 
